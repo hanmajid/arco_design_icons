@@ -4,6 +4,8 @@ version: 0.0.1
 homepage: https://github.com/hanmajid/arco_design_icons
 issue_tracker: https://github.com/hanmajid/arco_design_icons/issues
 repository: https://github.com/hanmajid/arco_design_icons
+funding:
+  - https://github.com/sponsors/hanmajid
 
 environment:
   sdk: '>=2.19.0 <4.0.0'
