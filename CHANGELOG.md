@@ -14,5 +14,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * `ArcoDesignIcon` widget class.
 * `ArcoDesignIcons` IconData class.
 
-[Unreleased]: https://github.com/hanmajid/arco_design_icons/compare/v0.0.1...HEAD
+[Unreleased]: https://github.com/hanmajid/arco_design_icons/compare/v0.0.1...dev
 [0.0.1]: https://github.com/hanmajid/arco_design_icons/releases/tag/v0.0.1
